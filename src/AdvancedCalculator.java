@@ -40,7 +40,6 @@ public class AdvancedCalculator {public static void main(String[] args) {
             default:
                 System.out.println("Неподдерживаемая операция");
                 break;
-                break:
         }
     }
 
